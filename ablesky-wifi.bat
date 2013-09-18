@@ -1,0 +1,1 @@
+netsh wlan add profile filename="c:\Wireless Network Connection-ablesky.xml"
